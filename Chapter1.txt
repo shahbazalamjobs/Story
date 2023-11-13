@@ -1,2 +1,4 @@
-My name is Shahbaz. Thats it !!!
-This is my update text for branch alien plot
+My name is Shahbaz and I am currently learning GitHub. Thats it !!!
+This is my update text for branch alien plot.
+
+Way many things to learn ahead. Keep going !!!
